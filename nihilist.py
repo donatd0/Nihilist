@@ -26,7 +26,8 @@ def banner():
     print("    " + Fore.YELLOW + "Alias: " + Style.RESET_ALL + "Caster")
     print("    " + Fore.YELLOW + "Version: " + Style.RESET_ALL + "1.0")
     print("    " + Fore.YELLOW + "Codename: " + Style.RESET_ALL + "Gestalt")
-    print("    " + Fore.YELLOW + "Documentation & Usage: " + Style.RESET_ALL + "https://github.com/casterbyte/Nihilist\n")
+    print("    " + Fore.YELLOW + "How to Use: " + Style.RESET_ALL + "https://github.com/casterbyte/Nihilist")
+    print("    " + Fore.YELLOW + "Detailed Documentation: " + Style.RESET_ALL + "https://github.com/casterbyte/Nihilist/wiki/Mechanism-of-the-tool\n")
     print("    " + Fore.MAGENTA + "❝He who fights with monsters should look to it that he himself does not become a monster❞")
     print("    " + Fore.MAGENTA + "— Friedrich Nietzsche, 1886\n" + Style.RESET_ALL)
 
@@ -1719,9 +1720,8 @@ def analysis_summary(start_time, device_type):
     print(Fore.WHITE + f"[*] Device Type: {device_type_str}" + Style.RESET_ALL)
 
     # Display a cautionary note for reviewing findings
-    print(Fore.YELLOW + "[!] Review the results carefully and apply necessary fixes\n" + Style.RESET_ALL)
-    print(Fore.MAGENTA + "[*] I was inspired by the book “Beyond Good and Evil” by Friedrich Nietzsche when I was writing this tool" + Style.RESET_ALL)
-
+    print(Fore.YELLOW + "[!] Review the results carefully and apply necessary fixes" + Style.RESET_ALL)
+    
     # Print closing separator
     print("=" * 60)
 
